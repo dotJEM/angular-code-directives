@@ -1,6 +1,8 @@
 angular-code-directives
 =======================
 
+*NOTE:* This is a work in progress. Untill a release has been made this is mostly left here to obtain feedback and provide them as samples.
+
 Provides a set of Angular Directives to deal with code examples on e.g. blogs, github pages etc.
 
 Syntax highligthing is based on http://alexgorbatchev.com/SyntaxHighlighter/ with a few modifications
