@@ -7,7 +7,7 @@ Provides a set of Angular Directives to deal with code examples on e.g. blogs, g
 
 Syntax highligthing is based on http://alexgorbatchev.com/SyntaxHighlighter/ with a few modifications
 in order to support running the higlighter on a pr. element basis instead of a full page run, I have not had
-the time to post these changes back to him as a PR but I won't for now as they are not done quite that clean.
+the time to post these changes back to him as a PR but I won't for now as they are not done quite that clean, but I plan to do so at some point.
 
 In the long run the plan is to incorporate the code from Alex Gorbatchev's syntaxhighlighter in a pure
 Angular Services and Directives which will also mean we can point out brushes in a more natural way instead of how it's done with the SyntaxHighlighter, but for now the above will do.
