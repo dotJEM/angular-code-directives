@@ -34,7 +34,7 @@ Angular Services and Directives which will also mean we can point out brushes in
 ```
 
 ```
-<div dx-plunkr>
+<div dx-plunkr tags="angular; awsome; stuff" title="My Awsome Angular Sample">
   <div dx-code-file src="home.html"></div>
   <div dx-code-file src="script.js"></div>
 </div>
